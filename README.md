@@ -14,7 +14,7 @@ Before running the script, make sure you have the following dependencies install
 
 1. Clone this repository or copy the script to your project directory.
 2. Ensure you have the necessary libraries installed.
-3. Run the script using the command: `python script_name.py`.
+3. Run the script using the command: `python Narrow Range 2.0.py`.
 
 ## Features
 
